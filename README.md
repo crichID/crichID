@@ -17,7 +17,7 @@ React Native.
 
 ### :coffee: Let's chat
 
-Find me on [Twitter](https://twitter.com/cynthiarich07) or open an issue here if you are interested in chatting about any of the following:
+Find me on [Twitter](https://twitter.com/cynthiarich07) if you are interested in chatting about any of the following:
 
 - How you got started in programming and your journey to where you are today
 - Photography, knitting, LEGO!
