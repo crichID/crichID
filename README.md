@@ -1,5 +1,7 @@
 <h3 align="center">Hi, I'm Cynthia</h3>
 <p align="center"><a href="https://twitter.com/cynthiarich07">Twitter</a> | <a href="https://twitch.tv/coding-with-cynthia">Twitch</a>
+  
+<hr>
 
 ### 🔭  My current project
 
