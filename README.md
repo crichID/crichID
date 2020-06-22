@@ -5,7 +5,7 @@
 
 I'm currently working on rebuilding my portfolio/blog in React.
 
-#### :checklist: My next project
+#### :thinking_face: Projects I'm exploring
 
 A GitHub Action to grab updated screenshots and insert them in documentation.
 
@@ -17,5 +17,5 @@ React Native.
 
 Find me on Twitter or open an issue here if you are interested in chatting about any of the following:
 
-- How you got started in programming
-- Photography
+- How you got started in programming and your journey to where you are today
+- Photography, knitting, LEGO!
