@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">:wave: Hi, I'm Cynthia</h3>
+<p align="center"><a href="https://twitter.com/cynthiarich07">Twitter</a> | <a href="https://twitch.tv/coding-with-cynthia">Twitch</a>
 
-<!--
-**crichID/crichID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 My current project
 
-Here are some ideas to get you started:
+I'm currently working on rebuilding my portfolio/blog in React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### : My next project
+
+A GitHub Action to grab updated screenshots and insert them in documentation.
+
+#### 🌱 I’m currently learning 
+
+React Native.
+
+#### :coffee: Let's chat
+
+Find me on Twitter or open an issue here if you are interested in chatting about any of the following:
+
+- How you got started in programming
+- Photography
