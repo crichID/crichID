@@ -1,15 +1,15 @@
 <h3 align="center">:wave: Hi, I'm Cynthia</h3>
 <p align="center"><a href="https://twitter.com/cynthiarich07">Twitter</a> | <a href="https://twitch.tv/coding-with-cynthia">Twitch</a>
 
-#### 🔭 My current project
+#### 🔭  My current project
 
 I'm currently working on rebuilding my portfolio/blog in React.
 
-#### : My next project
+#### :checklist: My next project
 
 A GitHub Action to grab updated screenshots and insert them in documentation.
 
-#### 🌱 I’m currently learning 
+#### 🌱  I’m currently learning 
 
 React Native.
 
